@@ -1,16 +1,106 @@
-# React + Vite
+# 📦 Projeto React – Aplicação Prática
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como parte de um estudo prático em **React**, seguindo o vídeo
+**“Learn React With This ONE Project”** disponível no YouTube.
 
-Currently, two official plugins are available:
+O objetivo foi consolidar os principais conceitos da biblioteca através da construção de uma aplicação real, indo além da teoria.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React**
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS**
+* **Consumo de API REST**
+* **Vite**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Objetivo do Projeto
+
+* Praticar os fundamentos do React
+* Aprender a estruturar componentes
+* Trabalhar com estado e renderização dinâmica
+* Consumir dados de uma API externa
+* Organizar um projeto React de forma limpa e escalável
+
+---
+
+## 🧠 Conceitos Aplicados
+
+* Componentização
+* Props
+* Estado (`useState`)
+* Efeitos colaterais (`useEffect`)
+* Consumo de API
+* Renderização condicional
+* Organização de pastas
+* Boas práticas em React
+
+---
+
+## 🖥️ Funcionalidades
+
+* Exibição dinâmica de dados vindos de uma API
+* Interface interativa
+* Atualização automática da UI conforme o estado da aplicação
+* Estrutura baseada em componentes reutilizáveis
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd nome-do-projeto
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Execute o projeto:
+
+```bash
+npm run dev
+```
+
+ou
+
+```bash
+npm start
+```
+
+5. Acesse no navegador:
+
+```
+http://localhost:3000
+```
+
+*(ou a porta indicada no terminal)*
+
+---
+
+
+## 📌 Referência
+
+Projeto baseado no vídeo:
+🎥 **Learn React With This ONE Project** – YouTube
+
+---
+
+## 👤 Autor
+
+**Raafel Rabelo da Silva**
+Desenvolvedor / QA
