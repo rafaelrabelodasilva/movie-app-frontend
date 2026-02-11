@@ -1,7 +1,7 @@
 # 📦 Projeto React – Aplicação Prática
 
 Este projeto foi desenvolvido como parte de um estudo prático em **React**, seguindo o vídeo
-**“Learn React With This ONE Project”** disponível no YouTube.
+["Learn React With This ONE Project"](https://youtu.be/G6D9cBaLViA?si=O3xAwt-StUHfjxo0) disponível no YouTube.
 
 O objetivo foi consolidar os principais conceitos da biblioteca através da construção de uma aplicação real, indo além da teoria.
 
@@ -9,12 +9,12 @@ O objetivo foi consolidar os principais conceitos da biblioteca através da cons
 
 ## 🚀 Tecnologias Utilizadas
 
-* **React**
+* **React v19.2.0**
 * **JavaScript (ES6+)**
 * **HTML5**
 * **CSS**
 * **Consumo de API REST**
-* **Vite**
+* **Vite v7.3.1**
 
 ---
 
@@ -48,6 +48,8 @@ O objetivo foi consolidar os principais conceitos da biblioteca através da cons
 * Atualização automática da UI conforme o estado da aplicação
 * Estrutura baseada em componentes reutilizáveis
 
+![Preview do app](./public/preview-app.gif)
+
 ---
 
 ## ▶️ Como Executar o Projeto
@@ -55,7 +57,7 @@ O objetivo foi consolidar os principais conceitos da biblioteca através da cons
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/rafaelrabelodasilva/movie-app-frontend
 ```
 
 2. Acesse a pasta do projeto:
@@ -76,16 +78,10 @@ npm install
 npm run dev
 ```
 
-ou
-
-```bash
-npm start
-```
-
 5. Acesse no navegador:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 *(ou a porta indicada no terminal)*
@@ -96,11 +92,4 @@ http://localhost:3000
 ## 📌 Referência
 
 Projeto baseado no vídeo:
-🎥 **Learn React With This ONE Project** – YouTube
-
----
-
-## 👤 Autor
-
-**Raafel Rabelo da Silva**
-Desenvolvedor / QA
+🎥 [**Learn React With This ONE Project** – YouTube](https://github.com/rafaelrabelodasilva/movie-app-frontend)
