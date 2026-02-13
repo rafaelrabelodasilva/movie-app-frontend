@@ -1,95 +1,69 @@
-# 📦 Projeto React – Aplicação Prática
+# 📦 React practice project
 
-Este projeto foi desenvolvido como parte de um estudo prático em **React**, seguindo o vídeo
-["Learn React With This ONE Project"](https://youtu.be/G6D9cBaLViA?si=O3xAwt-StUHfjxo0) disponível no YouTube.
+This project was built as a **practical learning exercise in React**, following the tutorial ["Learn React With This ONE Project"](https://youtu.be/G6D9cBaLViA?si=O3xAwt-StUHfjxo0) available on YouTube.
 
-O objetivo foi consolidar os principais conceitos da biblioteca através da construção de uma aplicação real, indo além da teoria.
+The main goal of this project was to strengthen my understanding of modern React concepts by building a real application from scratch while following the course.
 
----
+## 🚀 What I learned
 
-## 🚀 Tecnologias Utilizadas
+During the development of this project, I practiced and improved my knowledge in:
 
-* **React v19.2.0**
-* **JavaScript (ES6+)**
-* **HTML5**
-* **CSS**
-* **Consumo de API REST**
-* **Vite v7.3.1**
+- React fundamentals
+- Component-based architecture
+- Props and state management
+- React Hooks
+- Project structure and best practices
+- Building a real-world React application
 
----
+## 🛠️ Technologies used
 
-## 🎯 Objetivo do Projeto
+- React
+- JavaScript (ES6+)
+- Vite
+- HTML5
+- CSS3
 
-* Praticar os fundamentos do React
-* Aprender a estruturar componentes
-* Trabalhar com estado e renderização dinâmica
-* Consumir dados de uma API externa
-* Organizar um projeto React de forma limpa e escalável
+## 🖥️ Features
 
----
+* Dynamic display of data fetched from an API
+* Interactive user interface
+* Automatic UI updates based on application state
+* Component-based structure with reusable components
 
-## 🧠 Conceitos Aplicados
+![App preview](./public/preview-app.gif)
 
-* Componentização
-* Props
-* Estado (`useState`)
-* Efeitos colaterais (`useEffect`)
-* Consumo de API
-* Renderização condicional
-* Organização de pastas
-* Boas práticas em React
+## ▶️ How to run the project
 
----
-
-## 🖥️ Funcionalidades
-
-* Exibição dinâmica de dados vindos de uma API
-* Interface interativa
-* Atualização automática da UI conforme o estado da aplicação
-* Estrutura baseada em componentes reutilizáveis
-
-![Preview do app](./public/preview-app.gif)
-
----
-
-## ▶️ Como Executar o Projeto
-
-1. Clone este repositório:
+1. Clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/rafaelrabelodasilva/movie-app-frontend
 ```
 
-2. Acesse a pasta do projeto:
-
-```bash
-cd nome-do-projeto
-```
-
-3. Instale as dependências:
-
 ```bash
 npm install
 ```
 
-4. Execute o projeto:
+2. Start the development server:
 
 ```bash
 npm run dev
 ```
 
-5. Acesse no navegador:
+3. The application will be available at:
 
 ```
 http://localhost:5173
 ```
 
-*(ou a porta indicada no terminal)*
+*(or the port indicated on the terminal)*
 
----
+## 📌 Notes
 
+This project was created for study and practice purposes.
+All credits for the original idea and learning material go to the creator of the tutorial.
 
-## 📌 Referência
+## 👤 Author
 
-Projeto baseado no vídeo:
-🎥 [**Learn React With This ONE Project** – YouTube](https://github.com/rafaelrabelodasilva/movie-app-frontend)
+Developed by [Rafael Rabelo da Silva](https://www.linkedin.com/in/rafaelrabelodasilva/)</br>
+As part of my continuous learning journey in React and front-end development.
